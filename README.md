@@ -50,5 +50,3 @@ Enhance interactivity features to further engage users.
 Integrate advanced analytics for predictive modeling and forecasting.
 Provide user training and support to maximize dashboard utility.
 This summary report provides a concise overview of the Power BI dashboard development process and outcomes, highlighting the project's success in meeting high-level business requirements and supporting data-driven decision-making.
-
-![image](https://github.com/haroldnewton/Compassus.assessment/assets/104939076/ea4c0d6e-b24d-479d-b082-cbcd1ff17ca1)
