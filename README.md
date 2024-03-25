@@ -1,6 +1,6 @@
 # Compassus.assessment
 
-# Summary Report: Power BI Dashboard Development for High-Level Business Requirements
+# Summary Report: Power BI Dashboard Development for 2019 county-level Census data supplemented with Insured and Uninsured county-level data
 
 ## Introduction:
 This summary report encapsulates the development process and outcomes of creating two Power BI dashboards: EXPLORE and DECIDE, to meet specific high-level business requirements derived from provided datasets. The project aimed to harness the capabilities of Power BI to visualize and analyze data effectively, enabling users to derive actionable insights and support decision-making processes.
